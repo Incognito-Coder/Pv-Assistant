@@ -1,0 +1,10 @@
+Welcome.
+This bot based on <pre>PHP</pre>.
+Owner : <a href="tg://resolve?domain=thebestcoder">I30</a>
+* Usage :
+$ Write your message and send
+$ Do not spam(we can ban spammers).
+$ Don't share pornographic contents
+
+My portfolio and cv:
+https://mr-incognito.ir
