@@ -1,8 +1,7 @@
 # Pv-Assistant
 A Telegram bot for create pv assistant.
-<h2>Installion:</h2>
-<br>
-1.upload master.zip to your host
+<h2>installation:</h2>
+1.upload <b>master.zip</b> to your host
 <br>
 2.replace TOKEN & USERID with your own
 <br>
